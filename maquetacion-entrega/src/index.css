@@ -1,0 +1,56 @@
+.container{
+  columns: 2;
+  position: relative;
+}
+.imagen{
+  margin-left: 75px;
+  margin-top: 110px;
+}
+
+.bienvenido{
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+  color: #b24020;
+  font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+  text-align: left;
+  font-size: 45px;
+  font-weight: 100;
+  --artdeco-reset-typography_getLineHeight: 1.2;
+  line-height: var(--artdeco-reset-typography_getLineHeight);
+  margin-left: 100px; 
+}
+.login{
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+  line-height: 2;
+  margin: 100px;
+  
+}
+.formulario{
+  width: 300PX;
+  height: 30PX;
+}
+.o{
+  text-align: center;
+}
+.section{
+  font-size: 13px;
+}
+.button{
+  background-color: #0a66c2;
+  color: white;
+  border-radius: 20px;
+  width: 300PX;
+  height: 30PX;
+  text-align: center;
+  outline: none;
+  border-color: #0a66c2 ;
+}
+.recuperarContrasena{
+  color: #0a66c2;
+  font-size: 13px;
+
+}
+
+.Condiciones{
+  font-size: 12px;
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif
+}
